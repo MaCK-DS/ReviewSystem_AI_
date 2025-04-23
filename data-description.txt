@@ -1,0 +1,21 @@
+The sample dataset of 50 diverse customer review includes:
+
+A unique review ID for each entry
+Review text that varies in length, sentiment, and specificity
+Product category information across multiple retail segments
+Star ratings from 1-5 that generally align with the sentiment of the review
+Recent submission dates to make the scenario realistic
+
+The reviews cover:
+
+Different sentiment levels (very positive, mixed, very negative)
+Various product categories (electronics, clothing, beauty, home goods, etc.)
+Different customer concerns (product quality, delivery issues, customer service)
+A range of writing styles and specificity levels
+
+This dataset provides enough complexity for candidates to demonstrate their skills in:
+
+Sentiment analysis and classification
+Theme extraction from varied text
+Response generation that addresses specific customer concerns
+Prioritization based on sentiment, timing, and issue severity

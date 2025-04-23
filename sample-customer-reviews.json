@@ -1,0 +1,352 @@
+[
+  {
+    "review_id": "R001",
+    "review_text": "This wireless charger is fantastic! It charges my phone quickly and the design looks sleek on my desk. Definitely worth the price.",
+    "product_category": "Electronics",
+    "star_rating": 5,
+    "date_submitted": "2025-03-12"
+  },
+  {
+    "review_id": "R002",
+    "review_text": "I'm disappointed with this blender. It's very loud and the blades got stuck multiple times when making a simple smoothie. Not what I expected for the price.",
+    "product_category": "Kitchen Appliances",
+    "star_rating": 2,
+    "date_submitted": "2025-03-13"
+  },
+  {
+    "review_id": "R003",
+    "review_text": "The running shoes are comfortable but they started showing wear after just two weeks of light use. The quality doesn't match the premium pricing.",
+    "product_category": "Footwear",
+    "star_rating": 3,
+    "date_submitted": "2025-03-15"
+  },
+  {
+    "review_id": "R004",
+    "review_text": "This face cream caused my skin to break out immediately. Had to stop using it after just two applications. Very disappointed.",
+    "product_category": "Beauty & Personal Care",
+    "star_rating": 1,
+    "date_submitted": "2025-03-16"
+  },
+  {
+    "review_id": "R005",
+    "review_text": "The desk lamp provides perfect lighting for my workspace. Easy to adjust and the built-in USB port is a nice bonus. Highly recommend!",
+    "product_category": "Home Office",
+    "star_rating": 5,
+    "date_submitted": "2025-03-16"
+  },
+  {
+    "review_id": "R006",
+    "review_text": "Average headphones. Sound quality is okay, but nothing special. Battery life is good though.",
+    "product_category": "Electronics",
+    "star_rating": 3,
+    "date_submitted": "2025-03-17"
+  },
+  {
+    "review_id": "R007",
+    "review_text": "These yoga pants are perfect! Stretchy but not see-through, and they stay in place during my entire workout. Will definitely buy more colors.",
+    "product_category": "Activewear",
+    "star_rating": 5,
+    "date_submitted": "2025-03-18"
+  },
+  {
+    "review_id": "R008",
+    "review_text": "The delivery was late and when it finally arrived, the package was damaged. The product itself seems fine but this shipping experience was frustrating.",
+    "product_category": "Books",
+    "star_rating": 2,
+    "date_submitted": "2025-03-19"
+  },
+  {
+    "review_id": "R009",
+    "review_text": "This coffee maker changed my morning routine! The programmable timer means I wake up to fresh coffee, and it's so easy to clean.",
+    "product_category": "Kitchen Appliances",
+    "star_rating": 5,
+    "date_submitted": "2025-03-19"
+  },
+  {
+    "review_id": "R010",
+    "review_text": "I returned this smart thermostat because it was incompatible with my heating system, despite the description saying it would work. Wasted a lot of time trying to install it.",
+    "product_category": "Smart Home",
+    "star_rating": 1,
+    "date_submitted": "2025-03-20"
+  },
+  {
+    "review_id": "R011",
+    "review_text": "The backpack is well-made with lots of pockets, but it's smaller than it looked in the photos. Can barely fit my laptop and textbooks.",
+    "product_category": "Bags & Luggage",
+    "star_rating": 3,
+    "date_submitted": "2025-03-21"
+  },
+  {
+    "review_id": "R012",
+    "review_text": "Great portable speaker! The sound quality is impressive for its size and the battery lasts all day. Perfect for my camping trips.",
+    "product_category": "Electronics",
+    "star_rating": 5,
+    "date_submitted": "2025-03-22"
+  },
+  {
+    "review_id": "R013",
+    "review_text": "The food processor works fine but the instructions were very confusing. Took me ages to figure out how to assemble it properly.",
+    "product_category": "Kitchen Appliances",
+    "star_rating": 3,
+    "date_submitted": "2025-03-22"
+  },
+  {
+    "review_id": "R014",
+    "review_text": "This moisturizer is simply amazing for my sensitive skin. No irritation and keeps my face hydrated all day. Will definitely repurchase!",
+    "product_category": "Beauty & Personal Care",
+    "star_rating": 5,
+    "date_submitted": "2025-03-24"
+  },
+  {
+    "review_id": "R015",
+    "review_text": "I honestly expected better quality from this brand. The shirt started pilling after just one wash. Very disappointed.",
+    "product_category": "Clothing",
+    "star_rating": 2,
+    "date_submitted": "2025-03-25"
+  },
+  {
+    "review_id": "R016",
+    "review_text": "The vacuum cleaner has good suction but it's so heavy and difficult to maneuver around furniture. My back hurts after using it.",
+    "product_category": "Home Appliances",
+    "star_rating": 2,
+    "date_submitted": "2025-03-25"
+  },
+  {
+    "review_id": "R017",
+    "review_text": "These wireless earbuds exceeded my expectations! Great sound, comfortable fit, and the charging case is compact. Perfect for my daily commute.",
+    "product_category": "Electronics",
+    "star_rating": 5,
+    "date_submitted": "2025-03-26"
+  },
+  {
+    "review_id": "R018",
+    "review_text": "The fitness tracker is okay. Steps seem accurate but the sleep tracking is way off. The app is also a bit glitchy sometimes.",
+    "product_category": "Wearable Technology",
+    "star_rating": 3,
+    "date_submitted": "2025-03-27"
+  },
+  {
+    "review_id": "R019",
+    "review_text": "This protein powder tastes terrible! I've tried mixing it with different things but nothing masks the artificial flavor. Going back to my old brand.",
+    "product_category": "Nutrition & Supplements",
+    "star_rating": 1,
+    "date_submitted": "2025-03-28"
+  },
+  {
+    "review_id": "R020",
+    "review_text": "The knife set is sharp and well-balanced. The block looks elegant on my counter and the price was reasonable. Very satisfied with this purchase!",
+    "product_category": "Kitchen Utensils",
+    "star_rating": 5,
+    "date_submitted": "2025-03-29"
+  },
+  {
+    "review_id": "R021",
+    "review_text": "I wish I could give zero stars. This product is a complete scam. It doesn't work at all and customer service refused to give me a refund.",
+    "product_category": "Health & Wellness",
+    "star_rating": 1,
+    "date_submitted": "2025-03-30"
+  },
+  {
+    "review_id": "R022",
+    "review_text": "The monitor stand is sturdy and adjustable to different heights. Makes my workspace much more ergonomic. Good value for money.",
+    "product_category": "Home Office",
+    "star_rating": 4,
+    "date_submitted": "2025-03-31"
+  },
+  {
+    "review_id": "R023",
+    "review_text": "Customer service was incredibly helpful when I had questions about installation. The product itself is good quality and works as described.",
+    "product_category": "Smart Home",
+    "star_rating": 4,
+    "date_submitted": "2025-04-01"
+  },
+  {
+    "review_id": "R024",
+    "review_text": "The board game is fun but some of the pieces were missing when I opened the box. Had to wait two weeks for replacements to be sent.",
+    "product_category": "Toys & Games",
+    "star_rating": 3,
+    "date_submitted": "2025-04-02"
+  },
+  {
+    "review_id": "R025",
+    "review_text": "This water bottle keeps my drinks cold for hours! The lid design prevents leaks and it fits perfectly in my car cup holder. Love it!",
+    "product_category": "Sports & Outdoors",
+    "star_rating": 5,
+    "date_submitted": "2025-04-03"
+  },
+  {
+    "review_id": "R026",
+    "review_text": "The cycling shorts are comfortable for short rides but the padding compresses too much on longer journeys. Decent for the price but not for serious cyclists.",
+    "product_category": "Activewear",
+    "star_rating": 3,
+    "date_submitted": "2025-04-04"
+  },
+  {
+    "review_id": "R027",
+    "review_text": "I'm absolutely livid. The package was delivered to my neighbor who opened it before realizing it wasn't theirs. Privacy completely violated.",
+    "product_category": "Health & Wellness",
+    "star_rating": 1,
+    "date_submitted": "2025-04-05"
+  },
+  {
+    "review_id": "R028",
+    "review_text": "The desk organizer helps keep my workspace tidy and looks professional. The material quality is excellent for the price point.",
+    "product_category": "Home Office",
+    "star_rating": 4,
+    "date_submitted": "2025-04-06"
+  },
+  {
+    "review_id": "R029",
+    "review_text": "I'm on the fence about this hair dryer. It dries my hair quickly but it's very noisy and a bit heavy to hold for long periods.",
+    "product_category": "Beauty & Personal Care",
+    "star_rating": 3,
+    "date_submitted": "2025-04-07"
+  },
+  {
+    "review_id": "R030",
+    "review_text": "The cookbook has beautiful photos but many recipes require specialty ingredients that are hard to find. Still, the ones I've tried have turned out delicious.",
+    "product_category": "Books",
+    "star_rating": 4,
+    "date_submitted": "2025-04-08"
+  },
+  {
+    "review_id": "R031",
+    "review_text": "This tablet is lightning fast and the display is gorgeous. Perfect for streaming shows and browsing the web. Battery life exceeds what was advertised!",
+    "product_category": "Electronics",
+    "star_rating": 5,
+    "date_submitted": "2025-04-09"
+  },
+  {
+    "review_id": "R032",
+    "review_text": "The child safety lock for my cabinets is completely ineffective. My toddler figured out how to open it within minutes. Dangerous product.",
+    "product_category": "Baby & Child",
+    "star_rating": 1,
+    "date_submitted": "2025-04-10"
+  },
+  {
+    "review_id": "R033",
+    "review_text": "This air purifier has made a noticeable difference in my allergies. It's quiet on the lower settings and the filter indicator is helpful. Bit pricey though.",
+    "product_category": "Home Appliances",
+    "star_rating": 4,
+    "date_submitted": "2025-04-11"
+  },
+  {
+    "review_id": "R034",
+    "review_text": "The plant pot looks exactly like the photos and is made of quality materials. However, there's no drainage hole at the bottom which isn't mentioned in the description.",
+    "product_category": "Home & Garden",
+    "star_rating": 3,
+    "date_submitted": "2025-04-12"
+  },
+  {
+    "review_id": "R035",
+    "review_text": "These sunglasses are stylish and provide great UV protection. They're lightweight and don't pinch behind my ears like other brands I've tried.",
+    "product_category": "Fashion Accessories",
+    "star_rating": 5,
+    "date_submitted": "2025-04-13"
+  },
+  {
+    "review_id": "R036",
+    "review_text": "I received the wrong color of this lamp and when I contacted customer service, they told me I'd have to pay return shipping myself. Not impressed with this policy.",
+    "product_category": "Home Decor",
+    "star_rating": 2,
+    "date_submitted": "2025-04-14"
+  },
+  {
+    "review_id": "R037",
+    "review_text": "The dog toy lasted about 5 minutes before my medium-sized retriever had completely destroyed it. Not durable at all despite claims of being 'tough'.",
+    "product_category": "Pet Supplies",
+    "star_rating": 1,
+    "date_submitted": "2025-04-14"
+  },
+  {
+    "review_id": "R038",
+    "review_text": "This camping tent was easy to set up and kept us dry during unexpected rain. Plenty of room for two people plus gear. Great value for the price!",
+    "product_category": "Sports & Outdoors",
+    "star_rating": 5,
+    "date_submitted": "2025-04-15"
+  },
+  {
+    "review_id": "R039",
+    "review_text": "The wall paint color looks different than shown online, more gray than blue. Quality is good though and it covered well with just one coat.",
+    "product_category": "Home Improvement",
+    "star_rating": 3,
+    "date_submitted": "2025-04-15"
+  },
+  {
+    "review_id": "R040",
+    "review_text": "These resistance bands are perfect for home workouts. Different resistance levels clearly marked and they don't roll up during exercises. Very happy with this purchase!",
+    "product_category": "Sports & Outdoors",
+    "star_rating": 5,
+    "date_submitted": "2025-04-16"
+  },
+  {
+    "review_id": "R041",
+    "review_text": "The toaster burnt my bread on the lowest setting. Tried adjusting but it either barely warms the bread or completely chars it. No middle ground.",
+    "product_category": "Kitchen Appliances",
+    "star_rating": 2,
+    "date_submitted": "2025-04-16"
+  },
+  {
+    "review_id": "R042",
+    "review_text": "This garden hose is durable and doesn't kink easily. The spray nozzle has useful settings for different watering needs. Good purchase for the price.",
+    "product_category": "Home & Garden",
+    "star_rating": 4,
+    "date_submitted": "2025-04-17"
+  },
+  {
+    "review_id": "R043",
+    "review_text": "I've tried multiple times to get the app to connect with this smart bulb without success. The troubleshooting guide didn't help and there's no phone support.",
+    "product_category": "Smart Home",
+    "star_rating": 2,
+    "date_submitted": "2025-04-17"
+  },
+  {
+    "review_id": "R044",
+    "review_text": "My cat absolutely loves this automated toy! Keeps her entertained while I'm working from home. Battery life is decent and it's not too noisy.",
+    "product_category": "Pet Supplies",
+    "star_rating": 4,
+    "date_submitted": "2025-04-18"
+  },
+  {
+    "review_id": "R045",
+    "review_text": "The car phone mount doesn't stick to my dashboard as claimed. Keeps falling off during drives which is dangerous and frustrating.",
+    "product_category": "Automotive",
+    "star_rating": 1,
+    "date_submitted": "2025-04-18"
+  },
+  {
+    "review_id": "R046",
+    "review_text": "This insulated water bottle is amazing! Keeps my tea hot for over 8 hours and doesn't leak in my bag. Worth every penny.",
+    "product_category": "Kitchen & Dining",
+    "star_rating": 5,
+    "date_submitted": "2025-04-19"
+  },
+  {
+    "review_id": "R047",
+    "review_text": "The dress fabric is nice quality but the sizing runs very small. Had to return for two sizes larger than I normally wear. Consider ordering up!",
+    "product_category": "Clothing",
+    "star_rating": 3,
+    "date_submitted": "2025-04-20"
+  },
+  {
+    "review_id": "R048",
+    "review_text": "First time ordering from this company and I'm impressed! The item arrived earlier than expected and was exactly as described. Will definitely shop here again!",
+    "product_category": "Electronics",
+    "star_rating": 5,
+    "date_submitted": "2025-04-21"
+  },
+  {
+    "review_id": "R049",
+    "review_text": "The neck pillow is comfortable for short flights but flattens out after a few hours. Not ideal for long-haul travel as advertised.",
+    "product_category": "Travel Accessories",
+    "star_rating": 3,
+    "date_submitted": "2025-04-21"
+  },
+  {
+    "review_id": "R050",
+    "review_text": "Cannot believe how bad the customer service is. Been waiting 2 weeks for a response about my missing item and still nothing. Will never order from this company again.",
+    "product_category": "Furniture",
+    "star_rating": 1,
+    "date_submitted": "2025-04-22"
+  }
+]
