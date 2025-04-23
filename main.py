@@ -2,7 +2,6 @@ import streamlit as st
 import json
 import os
 from collections import Counter
-from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 from langchain_core.prompts import PromptTemplate
 from langchain_google_genai import ChatGoogleGenerativeAI
